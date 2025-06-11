@@ -1,0 +1,46 @@
+body{
+    background-color: gold;
+    text-align: center;
+}
+.operators{
+    margin: 5px;
+    height: 50px;
+    width: 50px;
+    color: cornflowerblue;
+    font-size: 20px;
+    font-weight: bolder;
+}
+h2{
+    font-size: 45px;
+    color: cornflowerblue;
+
+}
+
+input{
+    width: 200px;
+    height: 50px;
+}
+.button{
+    height: 50px;
+    width: 250px;
+}
+.sq{
+ height: 50px; 
+ width: 250px;
+}
+#photo{
+  
+   background-image: url("Power.png"); 
+   background-position: center;
+   background-size: cover;
+     background-color: rgb(0, 123, 255);
+   
+}
+.number{
+text-decoration: rgb(88, 144, 247);
+color: cornflowerblue;
+font-size: 20px;
+}
+
+
+
